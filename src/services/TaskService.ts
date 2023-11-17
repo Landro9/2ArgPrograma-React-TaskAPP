@@ -1,6 +1,6 @@
 import { Task } from '../types/Task';
 
-const BASE_URL = 'https://twoback-taskapp.onrender.com';
+const BASE_URL = 'https://twoback-taskapp.onrender.com/tasks';
 
 export const TaskService = {
   
